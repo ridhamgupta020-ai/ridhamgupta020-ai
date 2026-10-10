@@ -31,6 +31,34 @@
 - ⚡ Fun fact: I love turning ideas into working applications!
 
 ---
+<!-- ===================== NASA PROJECT ===================== -->
+
+## 🌌 NASA Open Source Project
+
+<div align="center">
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" width="100" alt="NASA Logo" />
+
+  <h3>🚀 Open Source Contributor</h3>
+
+  <p>
+    Worked on a NASA-related open-source project, applying software development
+    skills to technology-driven problem-solving.
+  </p>
+
+  <p>
+    <b>Focus Areas:</b><br>
+    💻 Software Development • 🌎 Space Technology • 🛰️ Innovation
+  </p>
+
+  <!-- Replace with your actual project repository -->
+  <a href="YOUR_NASA_PROJECT_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/View_Project-Explore-blue?style=for-the-badge&logo=github" alt="View Project" />
+  </a>
+
+</div>
+
+---
 
 <!-- ===================== TECH STACK ===================== -->
 
