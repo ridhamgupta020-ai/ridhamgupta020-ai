@@ -51,11 +51,6 @@
     💻 Software Development • 🌎 Space Technology • 🛰️ Innovation
   </p>
 
-  <!-- Replace with your actual project repository -->
-  <a href="YOUR_NASA_PROJECT_REPOSITORY_URL">
-    <img src="https://img.shields.io/badge/View_Project-Explore-blue?style=for-the-badge&logo=github" alt="View Project" />
-  </a>
-
 </div>
 
 ---
